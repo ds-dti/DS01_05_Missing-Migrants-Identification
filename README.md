@@ -6,9 +6,9 @@
 [logo]: https://github.com/ds-dti/DS01_05_Missing-Migrants-Identification/blob/main/poster.jpeg "Logo Title Text 2"
 
 Github ini berisikan dokumentasi dari Tugas Akhir Digital Talent Incubator 2020 oleh Kelompok 5 dengan anggota :
-1.	I Wayan Pasek Dian Wahyudi (Ketua kelompok)
+1.	I Wayan Pasek Dian Wahyudi 
 2.	Annisa Suciati Salsabila
-3.	I Putu Winda Ardiyanti
+3.	Ni Putu Winda Ardiyanti
 4.	Romasenna Edgar Emmanuel Napitupulu
 
 # Dataset
