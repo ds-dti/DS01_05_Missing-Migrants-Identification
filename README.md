@@ -1,5 +1,10 @@
 # Missing Migrants Identification
 
+
+![alt text][logo]
+
+[logo]: https://github.com/ds-dti/DS01_05_Missing-Migrants-Identification/blob/main/poster.jpeg "Logo Title Text 2"
+
 Github ini berisikan dokumentasi dari Tugas Akhir Digital Talent Incubator 2020 oleh Kelompok 5 dengan anggota :
 1.	Ni Putu Winda Ardiyanti
 2.	Annisa Suciati Salsabila
