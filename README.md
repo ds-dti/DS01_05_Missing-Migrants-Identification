@@ -11,6 +11,8 @@ Github ini berisikan dokumentasi dari Tugas Akhir Digital Talent Incubator 2020 
 3.	Ni Putu Winda Ardiyanti
 4.	Romasenna Edgar Emmanuel Napitupulu
 
+Video project dapat diakses di https://youtu.be/fLuLW69HBmg
+
 # Dataset
 Pada project ini, dataset yang digunakan merupakan dataset yang berisikan informasi mengenai missing migrants yang dipublish oleh International Organization for Migration(IOM). Dataset ini berisi 7818 data missing migrants dari tahun 2014 hingga 2020, jumlah data akan mungkin bertambah karena data bersifat real-time. Dataset dapat diunduh di [website ini](missingmigrants.iom.int ).Untuk proses cleaning data dapat dilihat pada file [eda_w_shap_missing_migrants.ipynb](https://github.com/ds-dti/DS01_05_Missing-Migrants-Identification/blob/main/eda_w_shap_missing_migrants.ipynb)
 
